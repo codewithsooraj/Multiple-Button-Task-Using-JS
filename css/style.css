@@ -1,0 +1,82 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.box{
+    margin-top:7%;
+    margin-left:33%;
+    width:35%;
+    height: 460px;
+    
+    border: 1.5px solid red;
+}
+.input1{
+    margin-top: 7%;
+    margin-left: 10.5%;
+    width: 35%;
+    height: 22px;
+    border: 1.5px solid black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.input2{
+    margin-top: 7%;
+    margin-left: 5.5%;
+    width: 35%;
+    height: 22px;
+    border: 1.5px solid black;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.button1{
+    width:16%;
+    height: 30px;
+    margin-top: 6%;
+    margin-left:3%;
+    background-color: aquamarine;
+    border: 1.5px solid black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.button{
+    width:16%;
+    margin-top: 6%;
+    height: 30px;
+    margin-left: 2.5%;
+    border: 1.5px solid black;
+    background-color: aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+.div1{
+    width:40%;
+    height:250px;
+    background-color: yellow;
+    float: left;
+    margin-left: 7.1%;
+    margin-top:7%;
+    border: 1.5px solid red;
+}
+
+.div2{
+    width:40%;
+    height:250px;
+    background-color: yellow;
+    float: left;
+    margin-left: 5%;
+    margin-top:7%;
+    border: 1.5px solid red;
+}
+.d1txt{
+    overflow-wrap: break-word;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
+
+.d2txt{
+    overflow-wrap: break-word;
+    font-size: 18px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
